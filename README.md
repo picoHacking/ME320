@@ -1,0 +1,3 @@
+- Code for lumped capacitance model
+- Compares cooling with three different shapes, two different materials, and three different air flow rates
+- Plots cooling curves
